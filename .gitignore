@@ -2,14 +2,6 @@
 
 # dependencies
 /node_modules
-/src/components
-/src/styles
-/src/types
-/src/app/about
-/src/app/contact
-/src/app/error
-/src/app/signin
-/src/app/signup
 
 /.pnp
 .pnp.js
